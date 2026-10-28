@@ -1,16 +1,10 @@
-<div align="center">
-
-<img src="./assets/profile-banner.svg" alt="Bahadır Güngör — Software Developer" width="100%" />
-
-<br />
+# Mehmet Bahadır Güngör
 
 **Computer Engineering · Karadeniz Technical University**
 
-I build mobile and web products, with a focus on thoughtful user experiences and reliable backend engineering.
+I build mobile and web products, focusing on thoughtful user experiences and reliable backend engineering.
 
-[LinkedIn](https://www.linkedin.com/in/mehmetbahadirgungor/) &nbsp;·&nbsp; [Athlor](https://athlor.fit/) &nbsp;·&nbsp; [OLLSTAR](https://ollstar.com/) &nbsp;·&nbsp; [Repositories](https://github.com/mehmetbahadirgungor?tab=repositories)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/mehmetbahadirgungor/) · [Athlor](https://athlor.fit/) · [OLLSTAR](https://ollstar.com/) · [Repositories](https://github.com/mehmetbahadirgungor?tab=repositories)
 
 ---
 
