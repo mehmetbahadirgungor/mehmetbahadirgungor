@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="176" viewBox="0 0 1200 176" role="img" aria-labelledby="title desc">
-  <title id="title">Bahadır Güngör</title>
-  <desc id="desc">Software Developer · Flutter · Open Source</desc>
-  <rect width="1200" height="176" rx="8" fill="#111111"/>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="52" y="89" fill="#FFFFFF" font-size="53" font-weight="700" letter-spacing="-1.5">Bahadır Güngör</text>
-    <text x="54" y="130" fill="#A3A3A3" font-size="21" font-weight="400">Software Developer  ·  Flutter  ·  Open Source</text>
-  </g>
-</svg>
