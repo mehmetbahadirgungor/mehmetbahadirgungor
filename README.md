@@ -8,7 +8,7 @@
 
 I build mobile and web products, with a focus on thoughtful user experiences and reliable backend engineering.
 
-[LinkedIn](https://www.linkedin.com/in/mehmetbahadirgungor/) &nbsp;·&nbsp; [Athlor](https://athlor.fit/) &nbsp;·&nbsp; [Repositories](https://github.com/mehmetbahadirgungor?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/mehmetbahadirgungor/) &nbsp;·&nbsp; [Athlor](https://athlor.fit/) &nbsp;·&nbsp; [OLLSTAR](https://ollstar.com/) &nbsp;·&nbsp; [Repositories](https://github.com/mehmetbahadirgungor?tab=repositories)
 
 </div>
 
@@ -29,7 +29,7 @@ A fitness and nutrition app released for **iOS and Android**, combining personal
 
 <sub>Independent product · Private source · Currently in maintenance mode</sub>
 
-#### OLLSTAR — Creator & fan marketplace
+#### [OLLSTAR](https://ollstar.com/) — Creator & fan marketplace
 
 A **team-developed mobile and web platform** connecting creators with fans through paid, personalized experiences.
 
