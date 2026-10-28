@@ -16,6 +16,11 @@ Software developer working across mobile apps, web products, and data workflows.
 | [WatchBase Data Scraping](https://github.com/mehmetbahadirgungor/DataScrapingFromWatchBase) | Watch data collection and exploration | Python, Jupyter |
 | [Car Data & Machine Learning](https://github.com/mehmetbahadirgungor/Data-Scraping-and-ML-from-CarsData) | Scraping, CSV datasets, and machine learning notebooks | Python, Jupyter |
 
+## Open source
+
+- **Merged contribution:** [Flutter Cache Manager #542](https://github.com/Baseflow/flutter_cache_manager/pull/542) — handle unhandled errors when updating cache-hit metadata.
+- **Proposed fix:** [Flutter Slidable #552](https://github.com/letsar/flutter_slidable/pull/552) — prevent diagonal scrolling from unintentionally opening a slidable (open pull request).
+
 ## Technologies I work with
 
 - **Mobile:** Flutter, Dart, Firebase, Provider, GetX
